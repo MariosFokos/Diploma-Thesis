@@ -4,6 +4,7 @@ Stock market data prediction using artificial neural networks
 ===========================================================================================
 
 ΠΕΡΙΛΗΨΗ 
+
 Η παρούσα διπλωματική εργασία εξετάζει τη χρήση Τεχνητών Νευρωνικών 
 Δικτύων για την πρόβλεψη χρηματιστηριακών δεδομένων. Για την πραγματοποίηση των 
 πειραμάτων χρησιμοποιήθηκαν ιστορικά δεδομένα από έντεκα διαφορετικές μετοχές, τα 
@@ -39,6 +40,7 @@ Short-Term Memory (LSTM) δίκτυο και ένα Gated Recurrent Unit (GRU) �
 ===========================================================================================
 
 ABSTRACT 
+
 This diploma thesis examines the use of Artificial Neural Networks for estimating 
 stock market data progression. Historical data from eleven different stocks, covering the 
 period from 2019 to 2024, were used for the experiments. In addition to basic stock 
